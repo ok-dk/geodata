@@ -17,13 +17,15 @@ Other Geodata
 -------------
 The following geodata is available via [Neogeografen/dagi][neogeografen]:
 
-* Municipalities
-* Constituencies
-* Police districts
-* Zip codes
-* Regions
-* Jurisdictions
-* Parishes
+English          | Danish
+-----------------|-------
+Municipalities   | Kommuner
+Constituencies   | Opstillingskredse
+Police districts | Politikredse
+Postnumre        | Zip codes
+Regions          | Regioner
+Jurisdictions    | Retskredse
+Parishes         | Sogne
 
 
 [ok-dk]: http://dk.okfn.org/2015/02/05/kort-over-afstemningsomrader-frigives-efter-pres-fra-open-knowledge-danmark/
